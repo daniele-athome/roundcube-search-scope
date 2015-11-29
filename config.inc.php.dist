@@ -1,0 +1,8 @@
+<?php
+  
+// search_scope options
+//
+// valid options are:
+// base, sub, all
+
+$rcmail_config['search_scope'] = 'base';  // RC default
